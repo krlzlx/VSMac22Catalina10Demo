@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{A36720C1-348B-49A4-B344-2D420CAC3B16}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.WebAppTest PreferredExecutionTarget="/Applications/Firefox.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="../../../../usr/local/share/dotnet/sdk/7.0.102/Sdks/Microsoft.NET.Sdk/targets/Microsoft.NET.Sdk.targets">
+    <Files>
+      <File FileName="../../../../usr/local/share/dotnet/sdk/7.0.102/Sdks/Microsoft.NET.Sdk/targets/Microsoft.NET.Sdk.targets" Line="580" Column="5" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="WebAppTest" expanded="True">
+            <Node name="WebAppTest" expanded="True">
+              <Node name="Pages" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

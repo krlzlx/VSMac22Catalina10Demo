@@ -1,0 +1,11 @@
+/Users/CBy/Projects/WebAppTest/WebAppTest/obj/Debug/net6.0/WebAppTest.csproj.AssemblyReference.cache
+/Users/CBy/Projects/WebAppTest/WebAppTest/obj/Debug/net6.0/WebAppTest.GeneratedMSBuildEditorConfig.editorconfig
+/Users/CBy/Projects/WebAppTest/WebAppTest/obj/Debug/net6.0/WebAppTest.AssemblyInfoInputs.cache
+/Users/CBy/Projects/WebAppTest/WebAppTest/obj/Debug/net6.0/WebAppTest.AssemblyInfo.cs
+/Users/CBy/Projects/WebAppTest/WebAppTest/obj/Debug/net6.0/WebAppTest.csproj.CoreCompileInputs.cache
+/Users/CBy/Projects/WebAppTest/WebAppTest/obj/Debug/net6.0/WebAppTest.MvcApplicationPartsAssemblyInfo.cache
+/Users/CBy/Projects/WebAppTest/WebAppTest/obj/Debug/net6.0/WebAppTest.RazorAssemblyInfo.cache
+/Users/CBy/Projects/WebAppTest/WebAppTest/obj/Debug/net6.0/WebAppTest.RazorAssemblyInfo.cs
+/Users/CBy/Projects/WebAppTest/WebAppTest/obj/Debug/net6.0/WebAppTest.dll
+/Users/CBy/Projects/WebAppTest/WebAppTest/obj/Debug/net6.0/refint/WebAppTest.dll
+/Users/CBy/Projects/WebAppTest/WebAppTest/obj/Debug/net6.0/WebAppTest.pdb
